@@ -22,7 +22,7 @@ Khóa học **SQLMap Essentials** cung cấp kiến thức toàn diện từ cơ
 * [x] **Section 03**: [Đọc hiểu dữ liệu đầu ra của SQLMap (SQLMap Output Description)](01-getting-started/03-sqlmap-output-description.md)
 
 ### 02. Building Attacks (Xây Dựng Cuộc Tấn Công)
-* [ ] **Section 04**: [Chạy SQLMap trên HTTP Request (Running SQLMap on an HTTP Request)](02-building-attacks/01-running-sqlmap-on-an-http-request.md)
+* [x] **Section 04**: [Chạy SQLMap trên HTTP Request (Running SQLMap on an HTTP Request)](02-building-attacks/01-running-sqlmap-on-an-http-request.md)
 * [ ] **Section 05**: [Xử lý lỗi trong quá trình chạy SQLMap (Handling SQLMap Errors)](02-building-attacks/02-handling-sqlmap-errors.md)
 * [ ] **Section 06**: [Tinh chỉnh tham số tấn công (Attack Tuning)](02-building-attacks/03-attack-tuning.md)
 
