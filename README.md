@@ -32,7 +32,7 @@ Khóa học **SQLMap Essentials** cung cấp kiến thức toàn diện từ cơ
 
 ### 04. Advanced SQLMap Usage (Kỹ Thuật Nâng Cao)
 * [x] **Section 09**: [Vượt qua cơ chế bảo vệ của Web App / WAF (Bypassing Web Application Protections)](04-advanced-sqlmap-usage/01-bypassing-web-application-protections.md)
-* [ ] **Section 10**: [Khai thác và chiếm quyền hệ điều hành (OS Exploitation)](04-advanced-sqlmap-usage/02-os-exploitation.md)
+* [x] **Section 10**: [Khai thác và chiếm quyền hệ điều hành (OS Exploitation)](04-advanced-sqlmap-usage/02-os-exploitation.md)
 
 ### 05. Skills Assessment (Thực Chiến Cuối Khóa)
 * [ ] **Section 11**: [Đánh giá kỹ năng tổng hợp (Skills Assessment)](05-skills-assessment/01-skills-assessment.md)
