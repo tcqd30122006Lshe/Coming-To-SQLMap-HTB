@@ -28,7 +28,7 @@ Khóa học **SQLMap Essentials** cung cấp kiến thức toàn diện từ cơ
 
 ### 03. Database Enumeration (Thu Thập & Trích Xuất Dữ Liệu)
 * [x] **Section 07**: [Thu thập thông tin CSDL cơ bản (Database Enumeration)](03-database-enumeration/01-database-enumeration.md)
-* [ ] **Section 08**: [Kỹ thuật thu thập CSDL nâng cao (Advanced Database Enumeration)](03-database-enumeration/02-advanced-database-enumeration.md)
+* [x] **Section 08**: [Kỹ thuật thu thập CSDL nâng cao (Advanced Database Enumeration)](03-database-enumeration/02-advanced-database-enumeration.md)
 
 ### 04. Advanced SQLMap Usage (Kỹ Thuật Nâng Cao)
 * [ ] **Section 09**: [Vượt qua cơ chế bảo vệ của Web App / WAF (Bypassing Web Application Protections)](04-advanced-sqlmap-usage/01-bypassing-web-application-protections.md)
