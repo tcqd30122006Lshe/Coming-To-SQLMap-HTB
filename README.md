@@ -18,7 +18,7 @@ Khóa học **SQLMap Essentials** cung cấp kiến thức toàn diện từ cơ
 
 ### 01. Getting Started (Khởi Động & Tổng Quan)
 * [x] **Section 01**: [Tổng quan về SQLMap (SQLMap Overview)](01-getting-started/01-sqlmap-overview.md)
-* [ ] **Section 02**: [Bắt đầu với SQLMap (Getting Started with SQLMap)](01-getting-started/02-getting-started-with-sqlmap.md)
+* [x] **Section 02**: [Bắt đầu với SQLMap (Getting Started with SQLMap)](01-getting-started/02-getting-started-with-sqlmap.md)
 * [ ] **Section 03**: [Đọc hiểu dữ liệu đầu ra của SQLMap (SQLMap Output Description)](01-getting-started/03-sqlmap-output-description.md)
 
 ### 02. Building Attacks (Xây Dựng Cuộc Tấn Công)
