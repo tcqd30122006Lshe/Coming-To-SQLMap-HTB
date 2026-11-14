@@ -27,7 +27,7 @@ Khóa học **SQLMap Essentials** cung cấp kiến thức toàn diện từ cơ
 * [x] **Section 06**: [Tinh chỉnh tham số tấn công (Attack Tuning)](02-building-attacks/03-attack-tuning.md)
 
 ### 03. Database Enumeration (Thu Thập & Trích Xuất Dữ Liệu)
-* [ ] **Section 07**: [Thu thập thông tin CSDL cơ bản (Database Enumeration)](03-database-enumeration/01-database-enumeration.md)
+* [x] **Section 07**: [Thu thập thông tin CSDL cơ bản (Database Enumeration)](03-database-enumeration/01-database-enumeration.md)
 * [ ] **Section 08**: [Kỹ thuật thu thập CSDL nâng cao (Advanced Database Enumeration)](03-database-enumeration/02-advanced-database-enumeration.md)
 
 ### 04. Advanced SQLMap Usage (Kỹ Thuật Nâng Cao)
